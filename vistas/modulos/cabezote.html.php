@@ -90,7 +90,7 @@ HEADER
 				
 				<a href="#">
 						
-					<img src="https://adminelectronicmarket.herokuapp.com/vistas/img/plantilla/logo.png" class="img-responsive">
+					<img src="https://adminelectronicmarket.cleverapps.io/vistas/img/plantilla/logo.png" class="img-responsive">
 
 				</a>
 				

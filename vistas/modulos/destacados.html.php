@@ -4,7 +4,7 @@ BANNER
 
 <figure class="banner">
 
-	<img src="https://adminelectronicmarket.herokuapp.com/vistas/img/banner/default.jpg" class="img-responsive" width="100%">	
+	<img src="https://adminelectronicmarket.cleverapps.io/vistas/img/banner/default.jpg" class="img-responsive" width="100%">	
 
 	<div class="textoBanner textoDer">
 		
@@ -124,7 +124,7 @@ VITRINA DE PRODUCTOS GRATIS
 					
 					<a href="#" class="pixelProducto">
 						
-						<img src="https://adminelectronicmarket.herokuapp.com/vistas/img/productos/accesorios/accesorio04.jpg" class="img-responsive">
+						<img src="https://adminelectronicmarket.cleverapps.io/vistas/img/productos/accesorios/accesorio04.jpg" class="img-responsive">
 
 					</a>
 
@@ -192,7 +192,7 @@ VITRINA DE PRODUCTOS GRATIS
 					
 					<a href="#" class="pixelProducto">
 						
-						<img src="https://adminelectronicmarket.herokuapp.com/vistas/img/productos/accesorios/accesorio03.jpg" class="img-responsive">
+						<img src="https://adminelectronicmarket.cleverapps.io/vistas/img/productos/accesorios/accesorio03.jpg" class="img-responsive">
 
 					</a>
 
@@ -260,7 +260,7 @@ VITRINA DE PRODUCTOS GRATIS
 					
 					<a href="#" class="pixelProducto">
 						
-						<img src="https://adminelectronicmarket.herokuapp.com/vistas/img/productos/accesorios/accesorio02.jpg" class="img-responsive">
+						<img src="https://adminelectronicmarket.cleverapps.io/vistas/img/productos/accesorios/accesorio02.jpg" class="img-responsive">
 
 					</a>
 
@@ -328,7 +328,7 @@ VITRINA DE PRODUCTOS GRATIS
 					
 					<a href="#" class="pixelProducto">
 						
-						<img src="https://adminelectronicmarket.herokuapp.com/vistas/img/productos/accesorios/accesorio01.jpg" class="img-responsive">
+						<img src="https://adminelectronicmarket.cleverapps.io/vistas/img/productos/accesorios/accesorio01.jpg" class="img-responsive">
 
 					</a>
 
@@ -406,7 +406,7 @@ VITRINA DE PRODUCTOS GRATIS
 					
 					<figure>
 					
-						<a href="#" class="pixelProducto"><img src="https://adminelectronicmarket.herokuapp.com/vistas/img/productos/accesorios/accesorio04.jpg" class="img-responsive"></a>
+						<a href="#" class="pixelProducto"><img src="https://adminelectronicmarket.cleverapps.io/vistas/img/productos/accesorios/accesorio04.jpg" class="img-responsive"></a>
 
 					</figure>
 
@@ -473,7 +473,7 @@ VITRINA DE PRODUCTOS GRATIS
 					
 					<figure>
 					
-						<a href="#" class="pixelProducto"><img src="https://adminelectronicmarket.herokuapp.com/vistas/img/productos/accesorios/accesorio03.jpg" class="img-responsive"></a>
+						<a href="#" class="pixelProducto"><img src="https://adminelectronicmarket.cleverapps.io/vistas/img/productos/accesorios/accesorio03.jpg" class="img-responsive"></a>
 
 					</figure>
 
@@ -540,7 +540,7 @@ VITRINA DE PRODUCTOS GRATIS
 					
 					<figure>
 					
-						<a href="#" class="pixelProducto"><img src="https://adminelectronicmarket.herokuapp.com/vistas/img/productos/accesorios/accesorio02.jpg" class="img-responsive"></a>
+						<a href="#" class="pixelProducto"><img src="https://adminelectronicmarket.cleverapps.io/vistas/img/productos/accesorios/accesorio02.jpg" class="img-responsive"></a>
 
 					</figure>
 
@@ -607,7 +607,7 @@ VITRINA DE PRODUCTOS GRATIS
 					
 					<figure>
 					
-						<a href="#" class="pixelProducto"><img src="https://adminelectronicmarket.herokuapp.com/vistas/img/productos/accesorios/accesorio01.jpg" class="img-responsive"></a>
+						<a href="#" class="pixelProducto"><img src="https://adminelectronicmarket.cleverapps.io/vistas/img/productos/accesorios/accesorio01.jpg" class="img-responsive"></a>
 
 					</figure>
 
@@ -776,7 +776,7 @@ VITRINA DE PRODUCTOS MÁS VENDIDOS
 					
 					<a href="#" class="pixelProducto">
 						
-						<img src="https://adminelectronicmarket.herokuapp.com/vistas/img/productos/ropa/ropa03.jpg" class="img-responsive">
+						<img src="https://adminelectronicmarket.cleverapps.io/vistas/img/productos/ropa/ropa03.jpg" class="img-responsive">
 
 					</a>
 
@@ -858,7 +858,7 @@ VITRINA DE PRODUCTOS MÁS VENDIDOS
 					
 					<a href="#" class="pixelProducto">
 						
-						<img src="https://adminelectronicmarket.herokuapp.com/vistas/img/productos/ropa/ropa04.jpg" class="img-responsive">
+						<img src="https://adminelectronicmarket.cleverapps.io/vistas/img/productos/ropa/ropa04.jpg" class="img-responsive">
 
 					</a>
 
@@ -938,7 +938,7 @@ VITRINA DE PRODUCTOS MÁS VENDIDOS
 					
 					<a href="#" class="pixelProducto">
 						
-						<img src="https://adminelectronicmarket.herokuapp.com/vistas/img/productos/ropa/ropa02.jpg" class="img-responsive">
+						<img src="https://adminelectronicmarket.cleverapps.io/vistas/img/productos/ropa/ropa02.jpg" class="img-responsive">
 
 					</a>
 
@@ -1018,7 +1018,7 @@ VITRINA DE PRODUCTOS MÁS VENDIDOS
 					
 					<a href="#" class="pixelProducto">
 						
-						<img src="https://adminelectronicmarket.herokuapp.com/vistas/img/productos/ropa/ropa06.jpg" class="img-responsive">
+						<img src="https://adminelectronicmarket.cleverapps.io/vistas/img/productos/ropa/ropa06.jpg" class="img-responsive">
 
 					</a>
 
@@ -1103,7 +1103,7 @@ VITRINA DE PRODUCTOS MÁS VENDIDOS
 					
 							<a href="#" class="pixelProducto">
 
-								<img src="https://adminelectronicmarket.herokuapp.com/vistas/img/productos/ropa/ropa03.jpg" class="img-responsive">
+								<img src="https://adminelectronicmarket.cleverapps.io/vistas/img/productos/ropa/ropa03.jpg" class="img-responsive">
 
 							</a>
 
@@ -1283,7 +1283,7 @@ VITRINA DE PRODUCTOS MÁS VISTOS
 					
 					<a href="#" class="pixelProducto">
 						
-						<img src="https://adminelectronicmarket.herokuapp.com/vistas/img/productos/cursos/curso05.jpg" class="img-responsive">
+						<img src="https://adminelectronicmarket.cleverapps.io/vistas/img/productos/cursos/curso05.jpg" class="img-responsive">
 
 					</a>
 
@@ -1337,7 +1337,7 @@ VITRINA DE PRODUCTOS MÁS VISTOS
 
 						</button>
 
-						<button type="button" class="btn btn-default btn-xs agregarCarrito" idProducto="404" imagen="https://adminelectronicmarket.herokuapp.com/vistas/img/productos/cursos/curso05.jpg" titulo="Curso de Bootstrap" precio="10" tipo="virtual" peso="0"  data-toggle="tooltip" title="Agregar al carrito de compras">
+						<button type="button" class="btn btn-default btn-xs agregarCarrito" idProducto="404" imagen="https://adminelectronicmarket.cleverapps.io/vistas/img/productos/cursos/curso05.jpg" titulo="Curso de Bootstrap" precio="10" tipo="virtual" peso="0"  data-toggle="tooltip" title="Agregar al carrito de compras">
 							
 							<i class="fa fa-shopping-cart" aria-hidden="true"></i>
 
@@ -1369,7 +1369,7 @@ VITRINA DE PRODUCTOS MÁS VISTOS
 					
 					<a href="#" class="pixelProducto">
 						
-						<img src="https://adminelectronicmarket.herokuapp.com/vistas/img/productos/cursos/curso04.jpg" class="img-responsive">
+						<img src="https://adminelectronicmarket.cleverapps.io/vistas/img/productos/cursos/curso04.jpg" class="img-responsive">
 
 					</a>
 
@@ -1423,7 +1423,7 @@ VITRINA DE PRODUCTOS MÁS VISTOS
 
 						</button>
 
-						<button type="button" class="btn btn-default btn-xs agregarCarrito" idProducto="404" imagen="https://adminelectronicmarket.herokuapp.com/vistas/img/productos/cursos/curso04.jpg" titulo="Curso de Canvas y Javascript" precio="10" tipo="virtual" peso="0"  data-toggle="tooltip" title="Agregar al carrito de compras">
+						<button type="button" class="btn btn-default btn-xs agregarCarrito" idProducto="404" imagen="https://adminelectronicmarket.cleverapps.io/vistas/img/productos/cursos/curso04.jpg" titulo="Curso de Canvas y Javascript" precio="10" tipo="virtual" peso="0"  data-toggle="tooltip" title="Agregar al carrito de compras">
 							
 							<i class="fa fa-shopping-cart" aria-hidden="true"></i>
 
@@ -1455,7 +1455,7 @@ VITRINA DE PRODUCTOS MÁS VISTOS
 					
 					<a href="#" class="pixelProducto">
 						
-						<img src="https://adminelectronicmarket.herokuapp.com/vistas/img/productos/cursos/curso02.jpg" class="img-responsive">
+						<img src="https://adminelectronicmarket.cleverapps.io/vistas/img/productos/cursos/curso02.jpg" class="img-responsive">
 
 					</a>
 
@@ -1509,7 +1509,7 @@ VITRINA DE PRODUCTOS MÁS VISTOS
 
 						</button>
 
-						<button type="button" class="btn btn-default btn-xs agregarCarrito" idProducto="404" imagen="https://adminelectronicmarket.herokuapp.com/vistas/img/productos/cursos/curso02.jpg" titulo="Aprende Javascript desde cero" precio="10" tipo="virtual" peso="0"  data-toggle="tooltip" title="Agregar al carrito de compras">
+						<button type="button" class="btn btn-default btn-xs agregarCarrito" idProducto="404" imagen="https://adminelectronicmarket.cleverapps.io/vistas/img/productos/cursos/curso02.jpg" titulo="Aprende Javascript desde cero" precio="10" tipo="virtual" peso="0"  data-toggle="tooltip" title="Agregar al carrito de compras">
 							
 							<i class="fa fa-shopping-cart" aria-hidden="true"></i>
 
@@ -1541,7 +1541,7 @@ VITRINA DE PRODUCTOS MÁS VISTOS
 					
 					<a href="#" class="pixelProducto">
 						
-						<img src="https://adminelectronicmarket.herokuapp.com/vistas/img/productos/cursos/curso03.jpg" class="img-responsive">
+						<img src="https://adminelectronicmarket.cleverapps.io/vistas/img/productos/cursos/curso03.jpg" class="img-responsive">
 
 					</a>
 
@@ -1595,7 +1595,7 @@ VITRINA DE PRODUCTOS MÁS VISTOS
 
 						</button>
 
-						<button type="button" class="btn btn-default btn-xs agregarCarrito" idProducto="404" imagen="https://adminelectronicmarket.herokuapp.com/vistas/img/productos/cursos/curso03.jpg" titulo="Curso de jQuery" precio="10" tipo="virtual" peso="0"  data-toggle="tooltip" title="Agregar al carrito de compras">
+						<button type="button" class="btn btn-default btn-xs agregarCarrito" idProducto="404" imagen="https://adminelectronicmarket.cleverapps.io/vistas/img/productos/cursos/curso03.jpg" titulo="Curso de jQuery" precio="10" tipo="virtual" peso="0"  data-toggle="tooltip" title="Agregar al carrito de compras">
 							
 							<i class="fa fa-shopping-cart" aria-hidden="true"></i>
 
@@ -1637,7 +1637,7 @@ VITRINA DE PRODUCTOS MÁS VISTOS
 					
 							<a href="#" class="pixelProducto">
 
-								<img src="https://adminelectronicmarket.herokuapp.com/vistas/img/productos/cursos/curso05.jpg" class="img-responsive">
+								<img src="https://adminelectronicmarket.cleverapps.io/vistas/img/productos/cursos/curso05.jpg" class="img-responsive">
 
 							</a>
 
@@ -1687,7 +1687,7 @@ VITRINA DE PRODUCTOS MÁS VISTOS
 
 					  		</button>
 
-					  		<button type="button" class="btn btn-default btn-xs agregarCarrito"  idProducto="404" imagen="https://adminelectronicmarket.herokuapp.com/vistas/img/productos/cursos/curso05.jpg" titulo="Curso de Bootstrap" precio="10" tipo="virtual" peso="0" data-toggle="tooltip" title="Agregar al carrito de compras">
+					  		<button type="button" class="btn btn-default btn-xs agregarCarrito"  idProducto="404" imagen="https://adminelectronicmarket.cleverapps.io/vistas/img/productos/cursos/curso05.jpg" titulo="Curso de Bootstrap" precio="10" tipo="virtual" peso="0" data-toggle="tooltip" title="Agregar al carrito de compras">
 
 								<i class="fa fa-shopping-cart" aria-hidden="true"></i>
 

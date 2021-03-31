@@ -16,11 +16,11 @@ SLIDESHOW
 		
 			<li>
 				
-				<img src="https://adminelectronicmarket.herokuapp.com/vistas/img/slide/default/back_default.jpg">
+				<img src="https://adminelectronicmarket.cleverapps.io/vistas/img/slide/default/back_default.jpg">
 
 				<div class="slideOpciones slideOpcion1">
 					
-					<img class="imgProducto" src="https://adminelectronicmarket.herokuapp.com/vistas/img/slide/slide1/calzado.png" style="top:15%; right:10%; width:45%">
+					<img class="imgProducto" src="https://adminelectronicmarket.cleverapps.io/vistas/img/slide/slide1/calzado.png" style="top:15%; right:10%; width:45%">
 
 					<div class="textosSlide" style="top:20%; left:10%; width:40%">
 						
@@ -50,11 +50,11 @@ SLIDESHOW
 		
 			<li>
 				
-				<img src="https://adminelectronicmarket.herokuapp.com/vistas/img/slide/default/back_default.jpg">
+				<img src="https://adminelectronicmarket.cleverapps.io/vistas/img/slide/default/back_default.jpg">
 
 				<div class="slideOpciones slideOpcion2">
 					
-					<img class="imgProducto" src="https://adminelectronicmarket.herokuapp.com/vistas/img/slide/slide2/curso.png" style="top:5%; left:15%; width:25%">
+					<img class="imgProducto" src="https://adminelectronicmarket.cleverapps.io/vistas/img/slide/slide2/curso.png" style="top:5%; left:15%; width:25%">
 
 					<div class="textosSlide" style="top:15%; right:15%; width:40%">
 						
@@ -84,11 +84,11 @@ SLIDESHOW
 		
 			<li>
 				
-				<img src="https://adminelectronicmarket.herokuapp.com/vistas/img/slide/slide3/fondo2.jpg">
+				<img src="https://adminelectronicmarket.cleverapps.io/vistas/img/slide/slide3/fondo2.jpg">
 
 				<div class="slideOpciones slideOpcion2">
 					
-					<img class="imgProducto" src="https://adminelectronicmarket.herokuapp.com/vistas/img/slide/slide3/iphone.png" style="top:5%; left:15%; width:25%">
+					<img class="imgProducto" src="https://adminelectronicmarket.cleverapps.io/vistas/img/slide/slide3/iphone.png" style="top:5%; left:15%; width:25%">
 
 					<div class="textosSlide" style="top:15%; right:15%; width:40%">
 						
@@ -118,7 +118,7 @@ SLIDESHOW
 		
 			<li>
 				
-				<img src="https://adminelectronicmarket.herokuapp.com/vistas/img/slide/slide4/fondo3.jpg">
+				<img src="https://adminelectronicmarket.cleverapps.io/vistas/img/slide/slide4/fondo3.jpg">
 
 				<div class="slideOpciones slideOpcion1">
 					
